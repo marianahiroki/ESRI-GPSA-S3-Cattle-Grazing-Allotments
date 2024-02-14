@@ -12,6 +12,7 @@ This exercise demonstrates using ArcGIS Online for water quality monitoring, ide
   - Determination of streams or basins necessitating monitoring or testing.
 
 6. Exercise Steps
+   
    **Data Exploration and Preparation:**
    - Examined layer information (Grazing Allotment, Hydrologic Unit and Streams)
    <img width="1242" alt="Screenshot 2024-02-08 111708" src="https://github.com/marianahiroki/ESRI-GPSA-S3-Cattle-Grazing-Allotments/assets/110165879/106b93bb-46d2-4e79-a4a4-5e3a96797020">
