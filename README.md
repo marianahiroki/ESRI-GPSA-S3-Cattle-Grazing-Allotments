@@ -1,6 +1,8 @@
 # ESRI-GPSA-S3-Cattle-Grazing-Allotments
 This exercise demonstrates using ArcGIS Online for water quality monitoring, identifying hydrologic basins and impacted streams within grazing allotments. It illustrates overlay analysis within spatial analysis for addressing such issues. The data is real, but the scenario, analysis, and decisions are hypothetical.
 
+Using overlay analysis, I was able to identify the allotments located inside of the Oregon basins that were mostly within the central/western part of the state. If field tests find a water quality issue with a particular stream or hydrologic basin, the biologists can filter the results layer to find out which allotments are within a particular basin or which allotment the stream passes through.
+
 ## Section 3 ##
 **Exercise 1: Determining How Places are Related: Cattle Grazing Allotments**
 1. Scenario: The Department of Environmental Quality in Oregon aims to monitor livestock grazing's impact on water quality, noting previous studies confirming sediment and waste pollution in grazing areas' streams.
